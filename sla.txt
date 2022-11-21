@@ -1,0 +1,10 @@
+﻿Cadastro cliente - FEITO
+perfil CLIENTE - FEITO
+MENU {
+	perfil - feito
+	lista de produto(nome, pre�o; - feito
+	pedido(confirm) - feito
+	pedido(confirm) == 'true' , fazer a altera��o no banco - feito
+	histórico de pedidos - feito (fazer banco de dados relacional)
+	
+} - feito
